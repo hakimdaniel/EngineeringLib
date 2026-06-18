@@ -20,4 +20,4 @@ g++ main.cpp -I ../include
 ```
 
 If you just wanted to use the library only, just copy it in `/include` with name `Engineering.h`.
-You can use it into your other project like. Btw this is C++ coding, not C. For C version find it at `/include_c`
+You can use it into your other project like. Btw this is C++ coding, not C. For C version find it at `/include_c`, will coming soon.
